@@ -1,0 +1,20 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="59-59-59-255,,,0-0-0-255,,,43-43-43-255" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="File&#10;settings&#10;repo&#10;color&#10;terminal" />
+    <property name="file.chooser.recent.files" value="/usr/local/opt/pyenv/versions/2.6.6/bin/python&#10;/usr/local/opt/pyenv/versions/2.6.6/envs/py26_test/bin/python" />
+    <property name="file.gist.reindex.count" value="5524" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="1" />
+    <property name="selected.color.option.type" value="CONSOLE_BACKGROUND_KEY" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
